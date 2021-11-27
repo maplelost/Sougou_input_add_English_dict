@@ -5,4 +5,4 @@ sogou_input,搜狗输入法,搜狗词典输入法,利用搜狗输入法的自定
 # 使用方法
 exxx
 例如:epaoqi
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/62323046/143666042-30aeda77-7b92-4952-a1d7-ea0a50445b0e.png)
